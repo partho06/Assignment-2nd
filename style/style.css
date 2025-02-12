@@ -1,0 +1,16 @@
+
+
+
+
+
+.logo-paragraph{
+    display: flex;
+}
+.about-admission a{
+    text-decoration: none;
+}
+.about-admission{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
